@@ -15,7 +15,7 @@ body {
     color: rgba(255,255,255,.85);
 }
 #container { 
-    padding-top: 50px;
+    padding-top: 100px;
 }
 #content {
     max-width: 43em;
@@ -25,26 +25,16 @@ body {
 
 h1 {
     margin: 0;
-    font-size: 3em;
+    font-size: 200px;
     letter-spacing: -1px;
     line-height: 1;
     text-align: center;
 }
 
 h2 {
-    font-size: 2.4em;
+    font-size: 150px;
     font-weight: 100;
     line-height: 1.5;
-}
-
-p { 
-    color: #685206;
-    font-family: 'Helvetica Neue', sans-serif;
-    font-size: 14px;
-    line-height: 24px;
-    margin: 0 0 24px;
-    text-align: justify;
-    text-justify: inter-word;
 }
 
 
@@ -56,18 +46,8 @@ a {
 a:hover {
     text-decoration: underline;
 }
-p#pleft {
-    max-width:20em;
-    float:left;
-}
-p#pright {
-    max-width:20em;
-    float:left;
-}
 
-
-
-html { font-size: 62.5%; }
+html { font-size: 70.5%; }
 body { font-size: 1em;}
 
 
