@@ -38,8 +38,10 @@ h3 {
     line-height: 1.5;
 }
 
-
-
+u {
+    text-decoration: none;
+    border-bottom: 8px solid black;
+  }
 
 html { font-size: 62.5%; }
 body { font-size: 1em;}
