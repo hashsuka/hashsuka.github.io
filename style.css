@@ -25,13 +25,13 @@ body {
 
 h1 {
     margin: 0;
-    font-size: 75px;
+    font-size: 3em;
     letter-spacing: -1px;
     line-height: 1;
     text-align: center;
 }
 
-h3 {
+h2 {
     font-size: 2.4em;
     font-weight: 100;
     line-height: 1.5;
